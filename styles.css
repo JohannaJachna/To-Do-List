@@ -1,0 +1,48 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  border-radius: 20px;
+  border: solid 5px;
+  color: white;
+  background-color: rgb(30, 53, 91);
+  border: solid 5px;
+  border-color: black;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+section {
+  height: 500px;
+  border-radius: 20px;
+  border: solid 5px;
+  background-color:rgb(30, 53, 91);
+}
+.submit-btn {
+  background-color: rgb(30, 53, 91);
+  border: solid 5px;
+  border-color: black;
+  color: white;
+  border-radius: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+.user-input {
+  background-color: rgb(30, 53, 91);
+  border: solid 5px;
+  border-color: black;
+  color: white;
+  border-radius: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+p {
+  display: inline-flex;
+  text-align: center;
+  color: white;
+  border-radius: 20px;
+  border-color: black;
+  border: solid 2px;
+  margin: 5px;
+  padding: 10px;
+}
